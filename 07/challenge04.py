@@ -8,7 +8,7 @@
 numbers = [1,4,9]
 
 while True:
-    a = input()
+    a = input("数あてゲーム(qで終了します)：")
 
     if a == "q":
         break

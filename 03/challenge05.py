@@ -11,11 +11,11 @@ favo_musicians = {
     "Official髭男dism": [
         "Pretender",
         "ノーダウト",
-        "I Love"
+        "I LOVE"
     ],
     "Mrs. GreenApple": [
         "Speaking",
-        "青と空",
+        "青と夏",
         "ニューマイノーマル"
     ]
 }
